@@ -1,0 +1,64 @@
+Job description
+D-Wave (NYSE: QBTS), a leader in the development and delivery of quantum computing systems, software, and services. We are the world’s first commercial supplier of quantum computers, and the only company building both annealing and gate-model quantum computers. Our mission is to help customers realize the value of quantum, today. Our 5,000+ qubit AdvantageTM quantum computers, the world’s largest, are available on-premises or via the cloud, supported by 99.9% availability and uptime. More than 100 organizations trust D-Wave with their toughest computational challenges. With over 200 million problems submitted to our Advantage and Advantage2™ systems to date, our customers apply our technology to address use cases spanning optimization, artificial intelligence, research and more.
+
+You can read more about our company and our innovations in the pages of The Wall Street Journal, Time Magazine, Fast Company, MIT Technology Review, Forbes, Inc. Magazine, Wired and across many white papers.
+
+At D-Wave, we’re helping customers realize the value of quantum computing today and are shaping the quantum-driven industrial and societal advancements of tomorrow.
+
+About the role
+D-Wave is seeking a skilled Software Developer to join our Processor Software team, which plays a key role in creating and maintaining software that supports both the Processor Development (PD) and Hardware Engineering (HWE) teams. The PD team focuses on developing the quantum processor, and the HWE team designs and maintains the hardware necessary to operate and interface with the quantum processor. Together, these teams form the core of D-Wave's advanced quantum computing technology.
+
+The ideal candidate will have a strong background in software and engineering physics, physics, or a related field. A Software Developer on this team will collaborate with programmers, engineers, scientists, and physicists to design, implement and maintain software and infrastructure that interact with our quantum processors in both production and lab environments. The software this position develops will play a role in the calibration, operation, and testing of our quantum processor. The primary language used in the development is Common Lisp (SBCL). The work this position delivers directly impacts the core functionality of our quantum computing system. If you're passionate about software development, quantum computing, and working at the intersection of hardware and software, with a collaborative mindset and a strong desire to learn and solve complex problems, we want to hear from you!
+
+What you'll do
+• Contribute to the full software life cycle, including development, testing, validation, deployment, maintenance, and decommissioning
+• Collaborate with team members, engineers and scientists to develop the software for quantum processor calibration, hardware interfaces, and operation infrastructure, including system testing and monitoring
+• Enhance the reliability, usability, and maintainability of the software systems by improving test coverage, documentation, and code architecture
+• Maintain, extend, and optimize custom-built software tools for supporting lab operations and ensure smooth interaction between the quantum hardware and software systems
+
+About You
+• Bachelor’s degree in engineering physics, electrical/computer engineering, physics, or computer science with a strong aptitude for physics and hardware experience, with 2+ years relevant software experience
+• Proficient in implementing hardware interfaces
+• Experience with Git: branching, merging, issuing pull requests, etc.
+• Experience working in a Linux environment
+• Strong ability to collaborate effectively in interdisciplinary teams and tackle a variety of problems
+• Demonstrated curiosity, flexibility, and passion for learning
+• Excellent written and verbal communication skills, with the ability to clearly explain complex concepts
+• Strong critical thinking, problem-solving, and collaboration skills.
+
+Bonus
+• Experience with Common Lisp or similar language, like Scheme, Clojure, or Scala
+• Familiarity with quantum computing concepts and technologies, including quantum processors and their operational environments
+• Experience developing and optimizing software in compiled languages and in multithreaded environments
+• Emacs, Docker, Jenkins, SQL, MongoDB, InfluxDB, Grafana, Redis
+
+A D-Waver's DNA
+• We look at the future and say “why not”; we see possibilities where others see problems or routines. We show the way ahead and are committed to achieving ambitious goals.
+• We practice straight talk and listen generously to each other with empathy. We value different opinions and points of views. We ensure that we connect outside as well as inside to learn from others and inspire each other.
+• We hold ourselves accountable for delivering results. We make decisions & take responsibility so that we can act & support each other.
+• As leaders we motivate & engage our teams to undertake beyond what they originally thought possible, by developing our teams & creating the conditions for people to grow and empower themselves through enabling & coaching.
+
+Our Compensation Philosophy is Simple but Powerful:
+
+We believe providing D-Wavers with company ownership, competitive pay, and a range of meaningful benefits is the start of creating a culture where people want to give the best they’ve got — not because they’re simply making money, but because they’ve fallen in love with our vision, mission, values, and team.
+
+During the interview process, your Recruiter will explain how our rubrics work across all our total rewards (base, equity, bonus, perks, benefit, culture) offerings. The final offer is determined by your proficiencies within this level.
+
+Our Impact on You:
+
+Competitive Pay. Company Ownership. Lots of Vacation. Great benefit offerings. Flexible Work Arrangements. Telehealth and Telemental Health. Employee Networking and Events. Inclusive Culture. Meaningful Perks and Rewards. Learning and Development Opportunities... and we’re always reviewing more ways to positively impact your life!
+
+Inclusion:
+
+We celebrate diverse perspectives to drive innovation in our pursuit. Our employees range from distinguished domain experts with decades of experience in their respective fields, to bright and motivated graduates eager to make their mark.
+
+Our diverse and innovative team will make you feel appreciated, supported and empower your career growth at D-Wave.
+
+The Fine Print:
+
+No 3rd party candidates will be accepted
+
+It is D-Wave Systems Inc. policy to provide equal employment opportunity (EEO) to all persons regardless of race, color, religion, sex, national origin, age, sexual orientation, gender identity, genetic information, physical or mental disability, protected veteran status, or any other characteristic protected by federal, state/provincial, local law.
+
+The pay range for this role is:
+103,000 - 150,000 CAD per year(Burnaby, CA)
